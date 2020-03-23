@@ -1,0 +1,76 @@
+﻿User-agent: *
+
+Disallow: /ADPInternetTheme/
+Disallow: /bin/
+Disallow: /Widgets/
+
+Disallow: /administration/
+Disallow: /adp/
+Disallow: /applications
+Disallow: /detailactualite
+Disallow: /erreur
+Disallow: /navigateur
+Disallow: /redirections
+
+Disallow: /BienvenueAParis
+Disallow: /HeaderLogout
+
+Disallow: *newsletter*
+Disallow: /resultat_recherche*
+Disallow: /search_results*
+Disallow: /passagers/cookies-consent
+Disallow: /pages-transverses/cookies-consent
+Disallow: /passagers/erreur
+Disallow: /pages-transverses/erreur
+Disallow: /passagers/page-introuvable
+Disallow: /page-404
+Disallow: /pages-transverses/page-introuvable
+Disallow: /passagers/achat/
+Disallow: /passagers/dashboard/
+Disallow: /passagers/roadmap
+Disallow: /test/
+Disallow: /passagers/services/my-airport/conditions-generales-d-utilisation-de-l-application-mobile-paris-aeroport
+Disallow: /passagers/mentions-légales---from-paris-to
+Disallow: /passagers/services/pour-vous-aider/confirmation-contact-fid
+Disallow: /passagers/services/pour-vous-aider/confirmation-contact
+Disallow: /passagers/services/pour-vous-aider/confirmation-retractation
+Disallow: /passagers/parking/page_de_confirmation
+
+Allow: /passagers/dashboard/fid-my-paris-aeroport
+Allow: /passagers/dashboard/fid-offres
+Allow: /passagers/dashboard/fid-offres/etc.
+Allow: /passagers/dashboard/fid_mon_statut
+Allow: /passagers/dashboard/fid_avantage
+Allow: /passagers/dashboard/fid_avantage_wifi
+Allow: /passagers/dashboard/fid_avantage_travelex
+Allow: /passagers/dashboard/fid_avantage_cumul-points
+Allow: /passagers/dashboard/fid_avantage_parking
+Allow: /passagers/dashboard/fid_avantage_boutiques
+Allow: /passagers/dashboard/fid_avantage_voiturier
+Allow: /passagers/dashboard/fid_avantage_safebag
+Allow: /passagers/dashboard/fid_avantage_agenda_culturel
+Allow: /passagers/dashboard/fid_avantage_location-voiture
+Allow: /passagers/dashboard/c-p-u-programme-de-fidelite
+Allow: /passagers/dashboard/politique-de-confidentialite-programme-de-fidelite
+Allow: /passagers/dashboard/fid_conversion_points_en_miles_flying_blue
+Allow: /passagers/dashboard/parrainage
+
+Disallow: /en/page-404
+Disallow: /es/pasajeros/terminos-y-condiciones
+Disallow: /es/pasajeros/cookies-consent
+Disallow: /it/it-passagers/it-mentions-légales
+Disallow: /it/it-passagers/cookies-consent
+Disallow: /zh-chs/chs---passagers/chs---mentions-légales
+Disallow: /zh-chs/chs---passagers/cookies-consent
+Disallow: /zh-cht/cht-passagers/cht-mentions-légales
+Disallow: /zh-cht/cht-passagers/cookies-consent
+Disallow: /ja/乗客/ja---mentions-légales
+Disallow: /ja/乗客/cookies-consent
+Disallow: /es/navegador/
+Disallow: /ru/браузер
+Disallow: /it/browser
+Disallow: /zh-chs/浏览器
+Disallow: /zh-cht/browser
+Disallow: /ja/browser
+
+Sitemap: http://www.parisaeroport.fr/sitemap.xml

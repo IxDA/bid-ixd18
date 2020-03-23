@@ -1,0 +1,6 @@
+# www.robotstxt.org/
+
+# Allow crawling of all content
+User-agent: *
+Disallow:
+/diplome_dnap-art-2010_sophie-bonnet-pourpet

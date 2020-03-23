@@ -1,0 +1,25 @@
+# robotstxt.org/
+
+User-agent: *
+
+Allow: /
+
+Disallow: /fileadmin/_processed_/
+Disallow: /fileadmin/_temp_/
+Disallow: /fileadmin/user_upload/_temp_/
+Disallow: /sphinx/
+Disallow: /typo3/
+Disallow: /typo3conf/
+Allow: /typo3conf/ext/gl_metropole_template/Resources/Public/
+Allow: /typo3conf/ext/gl_metropole_annuaires/Resources/Public/
+Disallow: /typo3_src/
+Disallow: /typo3temp/
+Disallow: /uploads/
+Disallow: /xiti/
+
+Disallow: /index.php?eID=tx_cms_showpic
+
+Disallow: /pratique/envoyer-a-un-ami.html
+
+Sitemap : http://www.grandlyon.com/sitemap.xml
+Sitemap : http://www.grandlyon.com/sitemap-delibs-files.xml

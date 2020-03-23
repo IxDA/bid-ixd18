@@ -1,0 +1,5 @@
+Sitemap: https://youfactory.co/sitemap.xml
+Sitemap: https://youfactory.co/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

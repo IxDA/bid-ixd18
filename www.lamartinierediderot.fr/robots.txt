@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /backoffice/
+Sitemap: http://www.lamartinierediderot.fr/sitemap.xml

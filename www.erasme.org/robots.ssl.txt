@@ -1,0 +1,19 @@
+# robots.txt
+# @url: https://www.erasme.org
+# @generator: SPIP 3.2.5 [24473]
+# @template: squelettes-dist/robots.txt.html
+
+User-agent: *
+Allow:    /local/cache-css/
+Allow:    /local/cache-js/
+Disallow: /local/
+Disallow: /ecrire/
+Disallow: /plugins-dist/
+Disallow: /lib/
+Disallow: /plugins/
+Disallow: /prive/
+Disallow: /squelettes-dist/
+Disallow: /squelettes/
+Crawl-delay: 1
+
+Sitemap: https://www.erasme.org/sitemap.xml

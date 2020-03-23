@@ -1,0 +1,9 @@
+# robots.txt generated at https://www.citedudesign.com
+User-agent: *
+Disallow: /admin/
+Disallow: /errors/
+Disallow: /rss/
+Disallow: /typos/
+Disallow: /signature/
+Disallow: /fr/presse/141113-revues-de-presse
+Sitemap: https://www.citedudesign.com/sitemap.xml

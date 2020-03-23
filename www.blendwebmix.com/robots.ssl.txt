@@ -1,0 +1,7 @@
+User-agent: *
+    Disallow: /wp-admin/
+    Allow: /wp-admin/admin-ajax.php 
+Sitemap: https://www.blendwebmix.com/sitemaps.xml
+Sitemap: https://www.blendwebmix.com/sitemaps/page.xml
+Sitemap: https://www.blendwebmix.com/sitemaps/team.xml
+Sitemap: https://www.blendwebmix.com/sitemaps/post.xml
